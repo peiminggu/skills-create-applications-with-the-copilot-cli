@@ -23,7 +23,8 @@ Copilot CLI supports custom agents that you can define in your repository:
 - Invoke agents using `/agent <name>` command
 - Great for documentation, infrastructure, security, or domain-specific tasks
 
-#### Delegating Tasks
+#### Delegating TasksRun and test the calculator functions with some example operations 
+shown in the image @images/calc-basic-operations.png.
 
 When you have larger tasks, you can delegate them to Copilot coding agent:
 
